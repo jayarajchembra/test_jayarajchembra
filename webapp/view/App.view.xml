@@ -1,0 +1,11 @@
+<!-- <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="lam.fin.ar.controller.App">
+
+    <App id="idAppCon"></App>
+
+</mvc:View> -->
+
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="lam.fin.ar.controller.App">
+
+    <SplitApp id="idAppCon"></SplitApp>
+
+</mvc:View>

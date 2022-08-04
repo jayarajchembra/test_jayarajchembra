@@ -40,7 +40,7 @@ controllerName="lam.fin.ar.controller.Add">
                         </layoutData>
                     </Input>
                     <Input value="{prod>/prodData/CurrencyCode}" />
-                    <Label text="Supplier" />
+                    <Label text="Supplier " />
                    <Input value="{prod>/prodData/SupplierId}" showValueHelp="true" valueHelpRequest="onF4Help"/>
                    <Text text="{prod>/prodData/SupplierName}" />
                     <Label text="Category" />
